@@ -1,3 +1,4 @@
+
 var level = 9;
 var points = 0;
 var scoreMode = 45;
